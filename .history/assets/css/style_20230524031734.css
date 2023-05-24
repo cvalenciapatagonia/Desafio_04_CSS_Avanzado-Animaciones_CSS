@@ -68,8 +68,7 @@ main {
 
 .main-container {
   display: grid;
-  row-gap: 0.5em;
-  column-gap: 0.5;
+  row-gap: 0.8em;
   padding: 0.8em 0 0.8em 0;
 }
 
